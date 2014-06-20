@@ -9,7 +9,7 @@ Windows 8 like wait animation for Qt.
 
 ## Public Functions ##
 
-`setIndicatorType(Indicator);` Set indicator type to `CIRCLE` or `RECT`, default `CIRCLE`
+`setIndicatorType(Indicator)` Set indicator type to `CIRCLE` or `RECT`, default `CIRCLE`
 
 `setSpeed(Speed)` Set shape transformation speed to `HIGH` or `MID` or `LOW`, default `MID`
 
